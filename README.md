@@ -5,14 +5,6 @@
 
 I'm an applied math and CS student at Brown University interested in software engineering and machine learning.
 
-<p align="center">
-    <a href="https://michelleliu4.github.io">Personal Site</a>
-    ·
-    <a href="mailto:michelle_h_liu@brown.edu">Email</a>
-    ·
-    <a href="https://linkedin.com/in/michelleliu-4">LinkedIn</a>
-</p>
-
 - 🏠 [Personal Site](https://michelleliu4.github.io)
 - 🔭 [LinkedIn](https://linkedin.com/in/michelleliu-4)
 - 📫 [Email](mailto:michelle_h_liu@brown.edu)
